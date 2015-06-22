@@ -1,1 +1,1 @@
-# symfony-simple-blog
+# Simple Blog in Symfony
