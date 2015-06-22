@@ -17,3 +17,7 @@ This blog system has:
     - Create new post
 
 I have forgotten to link "Create new post" page but you can access it via link: post/new
+
+Design:
+http://startbootstrap.com/template-overviews/blog-post/
+http://startbootstrap.com/template-overviews/blog-home/
